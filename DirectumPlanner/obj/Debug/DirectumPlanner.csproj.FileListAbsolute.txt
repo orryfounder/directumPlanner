@@ -1,0 +1,12 @@
+/Users/raazze/Projects/DirectumPlanner/DirectumPlanner/bin/Debug/DirectumPlanner.exe
+/Users/raazze/Projects/DirectumPlanner/DirectumPlanner/bin/Debug/DirectumPlanner.pdb
+/Users/raazze/Projects/DirectumPlanner/DirectumPlanner/obj/Debug/DirectumPlanner.csprojAssemblyReference.cache
+/Users/raazze/Projects/DirectumPlanner/DirectumPlanner/obj/Debug/DirectumPlanner.csproj.CoreCompileInputs.cache
+/Users/raazze/Projects/DirectumPlanner/DirectumPlanner/obj/Debug/DirectumPlanner.exe
+/Users/raazze/Projects/DirectumPlanner/DirectumPlanner/obj/Debug/DirectumPlanner.pdb
+C:\Users\Admin\Desktop\DirectumPlanner\DirectumPlanner\DirectumPlanner\bin\Debug\DirectumPlanner.exe
+C:\Users\Admin\Desktop\DirectumPlanner\DirectumPlanner\DirectumPlanner\bin\Debug\DirectumPlanner.pdb
+C:\Users\Admin\Desktop\DirectumPlanner\DirectumPlanner\DirectumPlanner\obj\Debug\DirectumPlanner.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DirectumPlanner\DirectumPlanner\DirectumPlanner\obj\Debug\DirectumPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DirectumPlanner\DirectumPlanner\DirectumPlanner\obj\Debug\DirectumPlanner.exe
+C:\Users\Admin\Desktop\DirectumPlanner\DirectumPlanner\DirectumPlanner\obj\Debug\DirectumPlanner.pdb
